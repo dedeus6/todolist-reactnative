@@ -4,7 +4,7 @@ This project was developed in Rocketseat react native journey.
 It's a to do list were you can add tasks that you want to do, you can mark tasks that already done and you can delete taks.
 
 
-You can see instructions <a href="https://efficient-sloth-d85.notion.site/Desafio-01-Praticando-os-conceitos-do-React-Native-f8f164e29df74cd987e1f9aebf142ffb">here</a>.
+You can see instructions <a href="https://efficient-sloth-d85.notion.site/Desafio-01-Praticando-os-conceitos-do-React-Native-f8f164e29df74cd987e1f9aebf142ffb">here</a>. <br/>
 You can see prototype here: <a href="https://www.figma.com/"><img alt="figma" align="center" src="https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff" /></a>
 
 ## Techs
